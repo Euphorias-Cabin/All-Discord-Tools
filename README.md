@@ -22,9 +22,9 @@
 - [x] - Fequently Updating
 - [x] - Might Have Some Bugs. If So Open An Issue
 
-> **WARNING:** Many people have been selling/distributing of GANG-Nuker!
+> **WARNING:** Many people have been selling/distributing of software similar to this.
 
-> **DO NOT** Installing GANG-Nuker From Anyother Place Than This Page, Expect it be **Hacked/Scammed.**
+> **DO NOT** Install software similar to this anywhere else as they could hack you. If you use any of these tools from other places i am not liable!**
 
 ## How to use the tools:
 1. First Click The Blue Text Of The Tool You Want!
