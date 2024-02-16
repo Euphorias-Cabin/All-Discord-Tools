@@ -15,6 +15,9 @@
 
 > **Note:** This repository contains most discord tools. These are not all made by me. Therefore i take no responsibility if they do not work. Feel free to open an issue if you come across one. **Everything here is for educational puposes only.**
 
+### What we ask:
+If you use any of these softwares **please star the github page**. This allows us to reach more people!
+
 ### Settings:
 - [x] - Windows 10 / 11
 - [x] - Download Python: [v3.10](https://www.python.org/ftp/python/3.10.5/python-3.10.5-amd64.exe) or [v3.9](https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe)
@@ -24,7 +27,7 @@
 
 > **WARNING:** Many people have been selling/distributing of software similar to this.
 
-> **DO NOT** Install software similar to this anywhere else as they could hack you. If you use any of these tools from other places i am not liable!**
+> **DO NOT** Install software similar to this anywhere else as they could hack you. If you use any of these tools from other places i am not liable!
 
 ## How to use the tools:
 1. First Click The Blue Text Of The Tool You Want!
